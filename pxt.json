@@ -1,5 +1,6 @@
 {
     "name": "Chapter 7a Let's Hear the Applause",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
